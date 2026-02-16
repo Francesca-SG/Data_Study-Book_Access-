@@ -26,6 +26,7 @@ States were then ranked from highest to lowest based on the total number of libr
 - Libraries outnumber bookstores in every state. One possible explanation is that libraries are publicly funded keeping them widespread, whilst bookstores are privately owned businesses that face difficult market pressures, including competing with large online booksellers.
 - Vermont has the largest density of libraries and bookstores for every 100,000 people living in the state, Nevada having the lowest.
 - States with smaller populations tend to have higher access to physical books, similarly large populations tend to have lower access.
-- 
+
+#### See the table below.
 
 <img width="1061" height="1107" alt="Screenshot 2026-02-16 143437" src="https://github.com/user-attachments/assets/c46a220f-39d4-40fb-b1db-6237768751e6" />
