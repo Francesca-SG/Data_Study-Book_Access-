@@ -21,4 +21,5 @@ States were then ranked from highest to lowest based on the total number of libr
 -This study only measures fixed physical locations the public can visit, bookmobiles have been excluded as they do not operate from a single fixed location.
 -Data reflects availability , not quality or size of location.
 -FY 2023 is the most recent available data for library and bookstore totals. For consistency 2023 population estimates were used, resulting in a more accurate analysis.			
-<img width="1061" height="1107" alt="image" src="https://github.com/user-attachments/assets/d3b8f41f-e52a-4118-be9e-b6f3421d6477" />
+
+<img width="1061" height="1107" alt="Screenshot 2026-02-16 143437" src="https://github.com/user-attachments/assets/c46a220f-39d4-40fb-b1db-6237768751e6" />
